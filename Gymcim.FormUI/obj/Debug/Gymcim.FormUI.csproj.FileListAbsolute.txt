@@ -25,7 +25,6 @@ D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\MetroFramework.dl
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\MetroFramework.Fonts.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\Ninject.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\Gymcim.Core.dll
-D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\KingAOP.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\Gymcim.Business.pdb
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\Gymcim.DataAccess.pdb
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.FormUI\bin\Debug\Gymcim.DataAccess.dll.config

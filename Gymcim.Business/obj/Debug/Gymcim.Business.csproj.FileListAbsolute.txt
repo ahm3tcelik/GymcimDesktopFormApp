@@ -17,7 +17,6 @@ D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\obj\Debug\Gymcim.Business
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\obj\Debug\Gymcim.Business.csproj.CopyComplete
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\bin\Debug\Gymcim.Business.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\bin\Debug\Gymcim.Business.pdb
-D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\bin\Debug\KingAOP.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\obj\Debug\Gymcim.Business.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\obj\Debug\Gymcim.Business.pdb
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Business\bin\Debug\Gymcim.Core.dll.config

@@ -110,9 +110,15 @@ namespace Gymcim.FormUI.Views.Customers
             
             if (dialogResult == DialogResult.Yes)
             {
-                MessageBox.Show("İstatistik başarıyla silindi!","Başarılı!");
-                statisticService.Delete(st, Session.currentUser);
-                lvlStats.Items.RemoveAt(lvlStats.SelectedItems[0].Index);
+                try
+                {
+                    statisticService.Delete(st, Session.currentUser);
+                    lvlStats.Items.RemoveAt(lvlStats.SelectedItems[0].Index);
+                    MessageBox.Show("İstatistik başarıyla silindi!", "Başarılı!");
+                } catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message, "Hata!");
+                }
             }
         }
 

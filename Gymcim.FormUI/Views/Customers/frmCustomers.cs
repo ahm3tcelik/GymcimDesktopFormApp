@@ -86,10 +86,17 @@ namespace Gymcim.FormUI.Views.Customers
 
                 if (dialogResult == DialogResult.Yes)
                 {
-                    MessageBox.Show("Müşteri başarıyla silindi!", "Başarılı!");
-                    customerService.Delete(customer, Session.currentUser);
-                    customers.Remove(customer);
-                    LoadCustomers(customers);
+                    try
+                    {
+                        customerService.Delete(customer, Session.currentUser);
+                        customers.Remove(customer);
+                        LoadCustomers(customers);
+                        MessageBox.Show("Müşteri başarıyla silindi!", "Başarılı!");
+                    } catch (Exception ex)
+                    {
+                        MessageBox.Show("Bağımlılıkları kontrol edin\n" + ex.Message, "Hata!");
+                    
+                    }
                 }
             }
         }

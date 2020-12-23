@@ -8,7 +8,6 @@ D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\obj\Debug\Gymcim.Entities
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\obj\Debug\Gymcim.Entities.csproj.CopyComplete
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\obj\Debug\Gymcim.Entities.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\obj\Debug\Gymcim.Entities.pdb
-D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\bin\Debug\KingAOP.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\bin\Debug\EntityFramework.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\bin\Debug\Gymcim.Core.dll.config
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.Entities\bin\Debug\EntityFramework.xml

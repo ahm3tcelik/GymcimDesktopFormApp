@@ -11,6 +11,5 @@ namespace Gymcim.Core.DataAccess
         void Add(T ent);
         void Update(T ent);
         void Delete(T ent);
-
     }
 }

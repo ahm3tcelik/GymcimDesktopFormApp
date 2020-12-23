@@ -17,5 +17,4 @@ D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\obj\Debug\Gymcim.DataAc
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\obj\Debug\Gymcim.DataAccess.csproj.CopyComplete
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\obj\Debug\Gymcim.DataAccess.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\obj\Debug\Gymcim.DataAccess.pdb
-D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\bin\Debug\KingAOP.dll
 D:\Scripts\C# Scripts\Form Apps\Gymcim\Gymcim.DataAccess\bin\Debug\Gymcim.Core.dll.config
